@@ -27,22 +27,22 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 # USE CASE:
-<img width="1041" height="721" alt="image" src="https://github.com/user-attachments/assets/da4f6e5f-14f8-4e15-9906-6f29f9903316" />
+<img width="896" height="877" alt="image" src="https://github.com/user-attachments/assets/3733989b-eda0-4f04-86eb-dec571e3e731" />
 
 # CLASS DIAGRAM:
-<img width="1016" height="601" alt="image" src="https://github.com/user-attachments/assets/349b7edc-cfb3-4085-9200-a69a3361f2ba" />
+<img width="919" height="743" alt="image" src="https://github.com/user-attachments/assets/426a1eb0-b227-4f05-8be4-b7667e45d432" />
 
 # COMMUNICATION DIAGRAM:
-<img width="998" height="853" alt="image" src="https://github.com/user-attachments/assets/663dbf25-f58d-4b2c-b3b8-b8e97f44bca6" />
+<img width="838" height="721" alt="image" src="https://github.com/user-attachments/assets/9362e920-c458-487b-a5c2-f4ec3910f2f9" />
 
 # ACTIVITY DIAGRAM:
-<img width="548" height="824" alt="image" src="https://github.com/user-attachments/assets/68dfd5a2-8735-4e1e-a963-78610b3fa9ec" />
+<img width="758" height="831" alt="image" src="https://github.com/user-attachments/assets/d857ebc5-6a4d-4727-b119-e7c6e1b1c7bc" />
 
 # SEQUENCE DIAGRAM:
-<img width="778" height="716" alt="image" src="https://github.com/user-attachments/assets/f1cf0bfe-48ff-4012-b6cf-1ac056c131d8" />
+<img width="926" height="760" alt="image" src="https://github.com/user-attachments/assets/423b2a5b-eaa0-4692-ab34-f1bde524a2e1" />
 
 # PACKAGE DIAGRAM:
-<img width="778" height="716" alt="image" src="https://github.com/user-attachments/assets/7db09832-c4c2-49eb-a5ea-65e40e06f3fe" />
+<img width="790" height="598" alt="image" src="https://github.com/user-attachments/assets/48e3c74d-bb59-428d-bbaa-c040c0cdd401" />
 
 
 ### RESULT:
